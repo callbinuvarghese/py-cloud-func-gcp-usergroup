@@ -1,0 +1,5 @@
+title: "Custom Role to Search Transitive Groups"
+description: "Custom role to grant cloudidentity.groups.searchTransitiveGroups permission."
+stage: "ALPHA"
+includedPermissions:
+- "cloudidentity.groups.searchTransitiveGroups"

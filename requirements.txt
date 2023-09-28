@@ -1,0 +1,6 @@
+google-auth-oauthlib 
+google-auth-httplib
+google-auth
+google-api-python-client
+google-cloud-logging
+functions-framework==3.*
